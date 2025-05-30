@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ba09d746-d7f3-45d8-9a88-9f040752b71a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/tristan-rest-api-test",
+    "appService.deploySubpath": "."
+}
